@@ -11,3 +11,7 @@ Java:
     Public static void main(string[] args) {
         System.out.println("Hello, world");
     }
+kotlin:
+	fun main() {
+		println("hello, world")
+	}
