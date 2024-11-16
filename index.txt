@@ -2,7 +2,7 @@ Eu sou um cara que gosta de programar na maior parte do tempo
 uma ultima vez eu vou testar
 Agora estou adicionando uma nova parte, vamos fazer um hello world em 3 linguagens diferentes:
 Javascript:
-    console.log("Hello, world");
+    console.log("Hello, persons");
 Dart:
     void main() {
         print("Hello, world");
