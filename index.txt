@@ -15,3 +15,5 @@ kotlin:
 	fun main() {
 		println("hello, world")
 	}
+python:
+	print("Ola gente há há há")
