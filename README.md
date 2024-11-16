@@ -36,6 +36,6 @@ Para ver quais repositórios remotos eu tenho em meu repositório local:
 ----------------
 |área|linguagem|
 |-----|----------|
-|Android developer|kotlin|
-|Game dev|C#, GdScript, Lua|
+|Android developer|kotlin, java|
+|Game dev|C#, GdScript, Lua, etc...|
 |Fullstack|javascript, etc...|
