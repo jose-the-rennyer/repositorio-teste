@@ -5,5 +5,5 @@ kotlin
 Dart
 C++
 elixir
-Ruby
+lua
 python
