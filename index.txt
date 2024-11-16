@@ -17,3 +17,7 @@ kotlin:
 	}
 python:
 	print("Ola gente há há há")
+Loop em javascript:
+for(let i = 0; i < 10; i++) {
+	console.log(i)
+}
